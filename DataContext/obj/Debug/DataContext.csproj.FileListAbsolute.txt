@@ -1,0 +1,18 @@
+C:\Users\Bibek\Desktop\339Database\DataContext\bin\Debug\DataContext.dll.config
+C:\Users\Bibek\Desktop\339Database\DataContext\bin\Debug\DataContext.dll
+C:\Users\Bibek\Desktop\339Database\DataContext\bin\Debug\DataContext.pdb
+C:\Users\Bibek\Desktop\339Database\DataContext\obj\Debug\DataContext.dll
+C:\Users\Bibek\Desktop\339Database\DataContext\obj\Debug\DataContext.pdb
+D:\CMPS 339\339Database\DataContext\bin\Debug\DataContext.dll.config
+D:\CMPS 339\339Database\DataContext\bin\Debug\DataContext.dll
+D:\CMPS 339\339Database\DataContext\bin\Debug\DataContext.pdb
+D:\CMPS 339\339Database\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+D:\CMPS 339\339Database\DataContext\obj\Debug\DataContext.dll
+D:\CMPS 339\339Database\DataContext\obj\Debug\DataContext.pdb
+D:\Southeastern\CMPS 339\339Database\DataContext\bin\Debug\DataContext.dll.config
+D:\Southeastern\CMPS 339\339Database\DataContext\bin\Debug\DataContext.dll
+D:\Southeastern\CMPS 339\339Database\DataContext\bin\Debug\DataContext.pdb
+D:\Southeastern\CMPS 339\339Database\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+D:\Southeastern\CMPS 339\339Database\DataContext\obj\Debug\DataContext.csproj.CoreCompileInputs.cache
+D:\Southeastern\CMPS 339\339Database\DataContext\obj\Debug\DataContext.dll
+D:\Southeastern\CMPS 339\339Database\DataContext\obj\Debug\DataContext.pdb

@@ -1,0 +1,18 @@
+C:\Users\Bibek\Desktop\339Database\Helpers\bin\Debug\Helpers.dll.config
+C:\Users\Bibek\Desktop\339Database\Helpers\bin\Debug\Helpers.dll
+C:\Users\Bibek\Desktop\339Database\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Bibek\Desktop\339Database\Helpers\obj\Debug\Helpers.dll
+C:\Users\Bibek\Desktop\339Database\Helpers\obj\Debug\Helpers.pdb
+D:\CMPS 339\339Database\Helpers\bin\Debug\Helpers.dll.config
+D:\CMPS 339\339Database\Helpers\bin\Debug\Helpers.dll
+D:\CMPS 339\339Database\Helpers\bin\Debug\Helpers.pdb
+D:\CMPS 339\339Database\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+D:\CMPS 339\339Database\Helpers\obj\Debug\Helpers.dll
+D:\CMPS 339\339Database\Helpers\obj\Debug\Helpers.pdb
+D:\Southeastern\CMPS 339\339Database\Helpers\bin\Debug\Helpers.dll.config
+D:\Southeastern\CMPS 339\339Database\Helpers\bin\Debug\Helpers.dll
+D:\Southeastern\CMPS 339\339Database\Helpers\bin\Debug\Helpers.pdb
+D:\Southeastern\CMPS 339\339Database\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+D:\Southeastern\CMPS 339\339Database\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+D:\Southeastern\CMPS 339\339Database\Helpers\obj\Debug\Helpers.dll
+D:\Southeastern\CMPS 339\339Database\Helpers\obj\Debug\Helpers.pdb

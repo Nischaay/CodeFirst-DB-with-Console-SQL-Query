@@ -1,0 +1,19 @@
+C:\Users\Bibek\Desktop\339Database\SQLParser\bin\Debug\SQLParser.dll.config
+C:\Users\Bibek\Desktop\339Database\SQLParser\bin\Debug\SQLParser.dll
+C:\Users\Bibek\Desktop\339Database\SQLParser\bin\Debug\SQLParser.pdb
+C:\Users\Bibek\Desktop\339Database\SQLParser\obj\Debug\SQLParser.dll
+C:\Users\Bibek\Desktop\339Database\SQLParser\obj\Debug\SQLParser.pdb
+C:\Users\Bibek\Desktop\339Database\SQLParser\obj\Debug\SQLParser.csprojResolveAssemblyReference.cache
+D:\CMPS 339\339Database\SQLParser\bin\Debug\SQLParser.dll.config
+D:\CMPS 339\339Database\SQLParser\bin\Debug\SQLParser.dll
+D:\CMPS 339\339Database\SQLParser\bin\Debug\SQLParser.pdb
+D:\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.csprojResolveAssemblyReference.cache
+D:\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.dll
+D:\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.pdb
+D:\Southeastern\CMPS 339\339Database\SQLParser\bin\Debug\SQLParser.dll.config
+D:\Southeastern\CMPS 339\339Database\SQLParser\bin\Debug\SQLParser.dll
+D:\Southeastern\CMPS 339\339Database\SQLParser\bin\Debug\SQLParser.pdb
+D:\Southeastern\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.csprojResolveAssemblyReference.cache
+D:\Southeastern\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.csproj.CoreCompileInputs.cache
+D:\Southeastern\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.dll
+D:\Southeastern\CMPS 339\339Database\SQLParser\obj\Debug\SQLParser.pdb
